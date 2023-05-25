@@ -1,0 +1,1 @@
+- [ ]  Van waar komt \Delta G = -nFe
