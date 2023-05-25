@@ -1,0 +1,5 @@
+- [ ]  Wat gebeurd er bij resonantie?
+- [ ]  Hoe bepaal je de transferfunctie
+- [ ]  wat is de relatie tussen Q en de transferfunctie
+- [ ]  Van waar komt de Q factor
+- [ ]  Waarom zijn Q ser en Q par omgekeerd
