@@ -1,0 +1,1 @@
+- [ ] Van waar komt de formule voor de kko
