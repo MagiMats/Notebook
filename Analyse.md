@@ -1,0 +1,16 @@
+- [ ]  Van waar komt de index vgl
+- [ ]  Hoe bepaal je de conv van een bessel functie?
+- [ ]  Waarom hebben verticalen bij sstellinng van green geen bijdrage
+- [ ]  Waarom duid lambda = 0 op binnen ongelijkheid
+- [ ]  Geldt pv^m enkel bij evenwichtige?
+- [ ]  Wat is de euler lagrange veelterm
+- [ ]  Waarom zijn er altijd twee complexe opl
+- [ ]  Hoe los je non linear dv op?
+- [ ]  Wanneer wordt een DV onstabiel
+- [ ]  Van waar komt sqrt(1+f’(x)^2)
+- [ ]  Zet hoofd def van afgeleide in anki
+- [ ]  Waarom moeten we aantonen dat de restterm nul iis bij e?x (p29/65 H7)
+- [ ]  Wat is de afleiiding van de mclaurinreeks van siin
+- [ ]  Waarom is det(A) = 0 LA
+- [ ]  Is er een verschil in oplossingsmethode tussen regulier en regulier singulier punt
+- [ ]  Wat is s bij crit alembert
