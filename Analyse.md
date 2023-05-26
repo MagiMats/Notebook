@@ -1,3 +1,31 @@
+# Plan
+Elke avond een oef maken 
+- H1
+- H2
+- H3
+- H4
+- H5
+- H6
+- H7
+- H8
+
+27/05 (Deel 1)
+- 2 uur ankis
+- Hele dag oefeningen => zoveel mogelijk
+
+1/06 (Deel 2)
+- 2 uur ankis
+- 8 uur volledige cursus grind
+
+5/06 (Mix/Hermaak moeilijke)
+- Alle oefeningen maken + moeilijke herhalen
+
+10/06 
+- examens
+
+11/06
+- examens
+
 Analyse Questions
 
 - [ ]  Van waar komt de index vgl

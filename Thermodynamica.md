@@ -1,3 +1,17 @@
+# Plan
+
+29/05 (Deel 1)
+- 6 uur oef 
+- 2 u theorie 
+- 1 uur vragen 
+
+3/06 (Deel 2)
+- 6 uur oef 
+- 2 u theorie 
+- 1 uur vragen 
+- 2 hr ankis
+
+
 - [ ]  Hoe weet je dat 1/T een integrerende factor is van de Q voor S
 - [ ]  Wat is het idee van Q = cdT
 - [ ]  Hoe doe je cyclische afleiding?

@@ -1,3 +1,19 @@
+30/05 (Deel 1)
+- Ochtend = Oef => 4hr
+- Nammidag theorie => 6hr 
+
+
+1/06 (Deel 2)
+- Ochtend = oef => 4hrp
+- Nammidag theorie => 6hr
+
+4/06 
+- examens
+
+11/06
+- examens
+
+
 - [ ]  Is lage oplosbaarheid een verticale lijn?
 - [ ]  Wat is kritiische vloeispanning
 - [ ]  Wat is de wet van Schmidt
