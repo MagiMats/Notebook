@@ -1,13 +1,11 @@
 # Plan
 Elke avond een oef maken 
-- H1
+- H1 (Lineaire en niet lineaire DV)
 - H2
-- H3
+- H3 (Integraal van VVeld of functie over kromme)
 - H4
-- H5
+- H5 (Machtreeksen)
 - H6
-- H7
-- H8
 
 27/05 (Deel 1)
 - 2 uur ankis
