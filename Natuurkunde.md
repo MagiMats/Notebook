@@ -46,11 +46,3 @@ Natuurkunde
 
 
 Vragen
-- [ ]  Hoe kom je aan de energiedichtheid van Magnetisch en Elektriisch veld
-- [ ]  Hoe kwam iemand op het idee voor elektrische gold
-- [ ]  Hoe ga je van f(x+- vt) naar sin
-- [ ]  Waarom bepalen we specifieke formule voor energie in inductiespoel
-- [ ]  Wat is eta bij stefan boltzman
-- [ ]  Wat is het idee achter \oint(Edl) = epsilon
-- [ ]  Waarom is div E = 0 voor een golf
-- [ ]  Wat is een franje bij verschillende m
