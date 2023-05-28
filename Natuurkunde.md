@@ -1,4 +1,5 @@
 Natuurkunde
+
 # Plan
 - Elke avond oef over Verschillend onderdeel
 - 13,14
@@ -46,7 +47,6 @@ Natuurkunde
 
 Vragen
 - [ ]  Hoe kom je aan de energiedichtheid van Magnetisch en Elektriisch veld
-- [ ]  Hoe beweegt de stroom in een magnetisch veld
 - [ ]  Hoe kwam iemand op het idee voor elektrische gold
 - [ ]  Hoe ga je van f(x+- vt) naar sin
 - [ ]  Waarom bepalen we specifieke formule voor energie in inductiespoel
