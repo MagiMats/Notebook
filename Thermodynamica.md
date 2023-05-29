@@ -1,7 +1,6 @@
 Thermo
 
 # Plan
-
 29/05 (Deel 1)
 - 6 uur oef 
 - 2 u theorie 
