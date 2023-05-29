@@ -1,3 +1,5 @@
+Analyse
+
 # Plan
 Elke avond een oef maken 
 - H1 (Lineaire en niet lineaire DV)
