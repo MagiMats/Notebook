@@ -32,7 +32,6 @@ Analyse Questions
 - [ ]  Hoe bepaal je de conv van een bessel functie?
 - [ ]  Waarom hebben verticalen bij sstellinng van green geen bijdrage
 - [ ]  Waarom duid lambda = 0 op binnen ongelijkheid
-- [ ]  Geldt pv^m enkel bij evenwichtige?
 - [ ]  Wat is de euler lagrange veelterm
 - [ ]  Waarom zijn er altijd twee complexe opl
 - [ ]  Hoe los je non linear dv op?
